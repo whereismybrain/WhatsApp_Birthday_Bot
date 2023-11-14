@@ -3,8 +3,8 @@ WhatsApp_Birthday_Bot is a Python Script designed to simplify birthday wishes. I
 
 # Installation 
 
-pip install selenium 
-pip install pandas
+- pip install selenium 
+- pip install pandas
 
 # Setting up 
 
